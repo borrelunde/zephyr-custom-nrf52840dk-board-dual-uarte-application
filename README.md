@@ -28,7 +28,7 @@ west flash
 
 ## Output
 
-Output on UART0 (`115200 8N1`):
+Output on UART0 (`115200 8N1)`:
 
 ```
 uart0: uart@40002000
@@ -37,7 +37,7 @@ uart0: uart@40002000
 [00:00:00.257,141] <inf> main: Application version 1.0.0 shutting down on board nrf52840dk!
 ```
 
-Output on UART1 (`115200 8N1)`:
+Output on UART1 (`115200 8N1`):
 
 ```
 uart1: uart@40028000
