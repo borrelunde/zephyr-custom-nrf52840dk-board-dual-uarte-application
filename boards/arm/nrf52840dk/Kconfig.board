@@ -1,0 +1,3 @@
+config BOARD_NRF52840DK
+	bool "nRF52840 DK Board"
+	depends on SOC_NRF52840_QIAA

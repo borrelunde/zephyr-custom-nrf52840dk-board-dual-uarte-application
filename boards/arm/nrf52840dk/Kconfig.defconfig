@@ -1,0 +1,6 @@
+if BOARD_NRF52840DK
+
+config BOARD
+	default "nrf52840dk"
+
+endif

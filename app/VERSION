@@ -1,0 +1,7 @@
+# This file contains the application version information.
+
+VERSION_MAJOR = 1
+VERSION_MINOR = 0
+PATCHLEVEL = 0
+VERSION_TWEAK = 1
+EXTRAVERSION =
