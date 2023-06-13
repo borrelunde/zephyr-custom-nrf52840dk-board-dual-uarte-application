@@ -28,7 +28,7 @@ west flash
 
 ## Output
 
-Output on UART0 (`115200 8N1)`:
+Output on UART0 (`115200 8N1`):
 
 ```
 uart0: uart@40002000
